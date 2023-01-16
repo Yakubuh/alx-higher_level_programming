@@ -3,7 +3,6 @@
 import json
 import os.path
 
-
 class Base:
     """this is inside the class"""
     __nb_objects = 0
